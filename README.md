@@ -4,7 +4,7 @@
 # AIPython-II (2024)
 
 Repositorio del curso **“Una ambiciosa Introducción a Python – Parte II”**.  
-realizado por **Mateo Lavecchia**.
+Realizado por **Mateo Lavecchia**.
 
 ---
 
